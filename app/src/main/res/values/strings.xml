@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+
+    <string name="titulo1">Bee Movie</string>
+    <string name="titulo2">Donde estan las rubias</string>
+    <string name="titulo3">Kung Fury</string>
+    <string name="titulo4">Megamente</string>
+    <string name="titulo5">Mi villano favorito</string>
+    <string name="titulo6">Monsters Inc</string>
+    <string name="titulo7">Shrek</string>
+    <string name="titulo8">Spiderman 2</string>
+    <string name="titulo9">Toy Story</string>
+
+    <string name="beeMovie_desc">
+        Recién salida de la universidad, la abeja Barry no tiene la intención de trabajar en la producción de miel.
+        Él huye de la colmena por primera vez y habla con un humano, lo que rompe una de las principales reglas de su especie.
+        Barry descubre que los humanos han estado robando y comiendo miel durante siglos y decide demandar a la humanidad por ese robo.
+    </string>
+
+    <string name="dondeEstanLasRubias_desc">
+        Dos desafortunados agentes del FBI se hacen pasar por dos chicas, novatas en la alta sociedad para investigar una serie de secuestros.
+        Pero mientras preparan su plan, descubren que irrumpir en la alta sociedad es mucho más duro de lo que creían.
+    </string>
+
+    <string name="kungFury_desc">
+        El detective del Departamento de la Policía de Miami y artista marcial, Kung Fury, retrocede en el tiempo de los años 80 a la Segunda Guerra Mundial
+        para matar a Adolf Hitler, alias Kung Führer, y vengar la muerte de su amigo en manos del líder nazi.
+    </string>
+
+    <string name="megamente_desc">
+        Megamente es un supervillano. Durante años, ha intentado conquistar Metro City, pero un héroe llamado Metro Man se lo impedía.
+        Tras muchos intentos, Megamind consigue matarlo. De repente, su vida carece de sentido. ¿Qué puede hacer un supervillano sin un superhéroe con el que enfrentarse?
+        Crear a Titán, un nuevo héroe. Sin embargo Titán empieza a pensar que es mucho más divertido destruir el mundo en vez de salvarlo. ¿Podrá derrotar Megamind a su diabólica criatura?
+    </string>
+
+    <string name="miVillanoFavorito_desc">
+        Mientras intenta cumplir su diabólico plan para robarse a la luna, el acto criminal más increíble de la Historia, un supervillano enfrenta su reto más grande,
+        tres pequeñas huérfanas que desean convertirlo en su papá. La visión de este supervillano, y de sus secuaces,
+        irá cambiando poco a poco gracias a esas tres pequeñas que llegarán a su corazón.
+    </string>
+
+    <string name="monstersInc_desc">
+        Monsters, Incorporated es la fábrica de sustos más grande en el mundo de los monstruos y James P. Sullivan es uno de sus mejores asustadores.
+        Sullivan es un monstruo grande e intimidante de piel azul con grandes manchas color púrpura y cuernos. Su asistente, mejor amigo y compañero de cuarto es Mike Wazowski,
+        un pequeño y alegre monstruo verde con un solo ojo. Por una falla durante la jornada de trabajo, conocen a Boo, una niña pequeña que entra a un mundo donde los humanos no están permitidos.
+    </string>
+
+    <string name="shrek_desc">
+        Hace mucho tiempo, en una lejana ciénaga, vivía un ogro llamado Shrek. Un día, su preciada soledad se ve interrumpida por un montón de personajes de cuento de hadas que invaden su casa.
+        Todos fueron desterrados de su reino por el malvado Lord Farquaad. Decidido a devolverles su reino y recuperar la soledad de su ciénaga,
+        Shrek llega a un acuerdo con Lord Farquaad y va a rescatar a la princesa Fiona, la futura esposa del rey. Sin embargo, la princesa esconde un oscuro secreto.
+    </string>
+
+    <string name="spiderman2_desc">
+        Como si Peter Parker no tuviera suficiente con sus propios problemas, estudios y su amor por Mary Jane, ahora tiene que salvar a la ciudad de un nuevo villano, el Doctor Octopus.
+    </string>
+
+    <string name="toyStory_desc">
+        Los juguetes de Andy, un niño de seis años, temen que un nuevo regalo les sustituya en el corazón de su dueño.
+        Woody, un vaquero que ha sido hasta ahora el juguete favorito, trata de tranquilizarlos hasta que aparece Buzz Lightyear.
+        Lo peor es que el arrogante Buzz se cree que es una auténtico astronauta en plena misión para regresar a su planeta.
+    </string>
+
+    <string name="tituloSerie1">Bojack Horseman</string>
+    <string name="tituloSerie2">Breaking Bad</string>
+    <string name="tituloSerie3">Brooklyn nine-nine</string>
+    <string name="tituloSerie4">Squid game</string>
+    <string name="tituloSerie5">Supernatural</string>
+
+    <string name="bojackHorseman_desc">
+        BoJack Horseman es un olvidado actor que supo vivir sus días de gloria gracias a una comedia televisiva, y que se enfrenta a las más duras crisis existenciales
+        y adicciones mientras intenta volver a las grandes ligas.
+    </string>
+
+    <string name="breakingBad_desc">
+        En Albuquerque, ciudad del estado de Nuevo México (Estados Unidos), un profesor de química de instituto llamado Walter White (Bryan Cranston) descubre que padece un cáncer incurable.
+        A raíz de esta noticia, y temiendo por la economía de su familia, decide aliarse con un antiguo alumno, Jesse Pinkman (Aaron Paul), para producir y vender metanfetamina.
+    </string>
+
+    <string name="brooklyn99_desc">
+        Los detectives Jake Peralta, Amy Santiago, Rosa Diaz y el sargento Terry Jeffords son unos policías talentosos, sin preocupaciones y con el mejor registro de arrestos,
+        hasta que llega a la estación policial el nuevo jefe Raymond Holt.
+    </string>
+
+    <string name="squidgame_desc">
+        456 personas con distintos problemas (adicciones, deudas, escasez económica, enfermedad…) son invitadas a un juego de supervivencia con un cuantioso premio para el ganador:
+        45.600 millones de wones.
+    </string>
+
+    <string name="supernatural_desc">
+        Dean (Jensen Ackles) y Sam (Jared Padalecki), hijos del cazador de entidades sobrenaturales John Winchester (Jeffrey Dean Morgan),
+        son dos hermanos dedicados a luchar contra entidades malignas que vagan por la Tierra, sean fantasmas, demonios, vampiros, zombis...
+    </string>
+
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cinema PopCorn</string>
+    <string name="nav_header_subtitle">El cine que no consigue licencias recientes...</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Peliculas</string>
+    <string name="menu_gallery">Series</string>
+    <string name="menu_slideshow">Favoritos</string>
+</resources>
